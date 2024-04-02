@@ -1,4 +1,4 @@
-Este é um redmi do código HTML fornecido:
+
 
 - **Título e Meta Tags**: O título do site é "PetLife" e a meta descrição descreve o propósito do site, que é garantir uma vida longa e feliz para os animais de estimação.
   
